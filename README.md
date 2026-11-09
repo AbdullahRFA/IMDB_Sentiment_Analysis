@@ -69,13 +69,3 @@ The project follows these main steps:
 The experimental results show that **TF-IDF combined with Logistic Regression** was the most effective approach for this IMDB sentiment classification task. It achieved the highest test accuracy and F1-score while maintaining very fast prediction time.
 
 Although BERT provides contextual language representations, its computational cost did not result in better performance in this frozen-embedding experiment. Overall, TF-IDF proved to be a practical and efficient solution for this dataset.
-
-## Project Deliverable
-
-The complete implementation, including dataset loading, preprocessing, feature extraction, model training, evaluation, visualizations, and analysis, is provided in the Google Colab notebook.
-
-**Notebook:** `Module13_IMDB_Sentiment_<YourName>.ipynb`
-
----
-
-*This project was completed as part of the Module 18 Assignment: Sentiment Analysis on Product Reviews (IMDB) || Customer Segmentation Analysis.*
